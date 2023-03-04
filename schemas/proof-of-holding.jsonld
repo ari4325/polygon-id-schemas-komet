@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfValuation": {
+        "@id": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/schemas/proof-of-valuation.jsonld#ProofOfValuation",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://github.com/ari4325/polygon-id-schemas-komet/blob/main/schemas/proof-of-holding-vocab.md",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "value": {
+            "@id": "vocab:value",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
