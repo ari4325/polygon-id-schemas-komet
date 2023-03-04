@@ -14,8 +14,12 @@
           "type": "@type",
           "vocab": "https://github.com/ari4325/polygon-id-schemas-komet/blob/main/schemas/proof-of-holding-vocab.md",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "value": {
-            "@id": "vocab:value",
+          "contract_address": {
+            "@id": "vocab:contract_address",
+            "@type": "xsd:string"
+          },
+          "tokens_held": {
+            "@id": "vocab:tokens_held",
             "@type": "xsd:integer"
           }
         }
