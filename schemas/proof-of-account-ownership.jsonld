@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfAccountOwnership": {
+        "@id": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/schemas/proof-of-account-ownership.jsonld#ProofOfAccountOwnership",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://github.com/ari4325/polygon-id-schemas-komet/blob/main/schemas/proof-of-account-ownership-vocab.md",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "address": {
+            "@id": "vocab:value",
+            "@type": "xsd:string"
+          }
+        }
+      }
+    }
+  ]
+}
