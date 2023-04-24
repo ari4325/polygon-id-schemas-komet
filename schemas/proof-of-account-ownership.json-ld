@@ -15,7 +15,7 @@
           "vocab": "https://github.com/ari4325/polygon-id-schemas-komet/blob/main/schemas/proof-of-account-ownership-vocab.md",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "address": {
-            "@id": "vocab:value",
+            "@id": "vocab:address",
             "@type": "xsd:string"
           }
         }
