@@ -20,7 +20,7 @@
           },
           "bayc_owner": {
             "@id": "vocab:bayc_owner",
-            "@type": "xsd:boolean"
+            "@type": "xsd:integer"
           }
         }
       }
