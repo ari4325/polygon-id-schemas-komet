@@ -106,7 +106,8 @@
       "type": "object",
       "required": [
         "id",
-        "address"
+        "valuation",
+        "bayc_owner"
       ],
       "properties": {
         "id": {
