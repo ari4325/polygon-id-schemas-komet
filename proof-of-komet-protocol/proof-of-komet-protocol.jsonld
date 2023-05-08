@@ -12,7 +12,7 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://github.com/ari4325/polygon-id-schemas-komet/blob/main/schemas/proof-of-komet-protocol/proof-of-komet-protocol-vocab.md",
+          "vocab": "https://github.com/ari4325/polygon-id-schemas-komet/blob/main/proof-of-komet-protocol/proof-of-komet-protocol-vocab.md",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "valuation": {
             "@id": "vocab:valuation",
