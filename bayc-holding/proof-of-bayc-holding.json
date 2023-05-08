@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/schemas/proof-of-holding.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/schemas/proof-of-holding.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/bayc-holding/proof-of-bayc-holding.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/bayc-holding/proof-of-bayc-holding.json"
       }
     },
     "required": [
