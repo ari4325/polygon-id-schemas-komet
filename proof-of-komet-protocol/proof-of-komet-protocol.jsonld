@@ -1,14 +1,14 @@
 {
   "@context": [
     {
-      "@version": 1.1,
+      "@version": 1.0,
       "@protected": true,
       "id": "@id",
       "type": "@type",
       "ProofOfKometProtocol": {
         "@id": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/proof-of-komet-protocol/proof-of-komet-protocol.jsonld#ProofOfKometProtocol",
         "@context": {
-          "@version": 1.1,
+          "@version": 1.0,
           "@protected": true,
           "id": "@id",
           "type": "@type",
