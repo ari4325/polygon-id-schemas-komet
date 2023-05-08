@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "ProofOfKometProtocol": {
-        "@id": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/schemas/proof-of-account-ownership.jsonld#ProofOfAccountOwnership",
+        "@id": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/proof-of-komet-protocol/proof-of-komet-protocol.jsonld#ProofOfKometProtocol",
         "@context": {
           "@version": 1.1,
           "@protected": true,
