@@ -1,0 +1,34 @@
+{
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "ProofOfNFTHolding": {
+          "@id": "https://raw.githubusercontent.com/ari4325/polygon-id-schemas-komet/main/komet-generic-proof/komet-generic.jsonld#KometGeneric",
+          "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "vocab": "https://github.com/ari4325/polygon-id-schemas-komet/blob/main/komet-generic-proof/komet-generic-vocab.md",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "collection_name": {
+              "@id": "vocab:collection_name",
+              "@type": "xsd:string"
+            },
+            "collection_address": {
+              "@id": "vocab:collection_address",
+              "@type": "xsd:string"
+            },
+            "collection_balance": {
+                "@id": "vocab:collection_balance",
+                "@type": "xsd:integer"
+              }
+          }
+        }
+      }
+    ]
+  }
+  
